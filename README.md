@@ -7,6 +7,7 @@ Curiosidades aleatórias sobre mim:
 - ✍️ Fiz um semestre de ADS e resolvi fechar devido a pandemia
 - 🏡 Me rendi ao ensino a distância e hoje faço um curso intensivo de Desenolvimento Web na Digital House
 - ☕ Sou levemente viciado em café e sommelier de Whisky escocês 
+- 🎮 Jogo League of Legends quase todos os dias
 
 
 <h2>Stacks que estudo diariamente</h2>
