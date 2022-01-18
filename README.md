@@ -2,9 +2,15 @@
 
 ### <h1>Oi, Eu sou o Pablo 🧑‍💻</h1>
 
+Me conheça um pouquinho: 
+
+20 anos, com 1,78m estudo todos os dias com o sonho de ingressar na aréa ainda este ano. Estou me planejando para voltar para a universidade este ano ainda.
+
+
+
 Curiosidades aleatórias sobre mim: 
 
-- ✍️ Fiz um semestre de ADS e resolvi fechar devido a pandemia
+- ✍️ Fiz um semestre de ADS e resolvi trancar o curso devido a pandemia
 - 🏡 Me rendi ao ensino a distância e hoje faço um curso intensivo de Desenolvimento Web na Digital House
 - ☕ Sou levemente viciado em café e sommelier de Whisky escocês 
 - 🎮 Jogo League of Legends quase todos os dias
