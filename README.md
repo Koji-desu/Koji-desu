@@ -1,6 +1,6 @@
 
 
-### <h1>Oi, Eu sou o Pablo 🧑‍💻</h1>
+### <h1>Oi, Eu sou o Pablo 🧑‍💻 <img src="afa56798f0a615935f2ce5cf26aabf3374020f0f_hq.gif"/></h1>
 
 Me conheça um pouquinho: 
 
