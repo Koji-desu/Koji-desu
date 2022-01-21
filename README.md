@@ -1,22 +1,21 @@
 
 
-### <h1>Oi, Eu sou o Pablo 🧑‍💻 <img src="afa56798f0a615935f2ce5cf26aabf3374020f0f_hq.gif" width="40" height="40"/></h1>
+### <h1>Hey There, I'm Pablo💻 ></h1>
 
-Me conheça um pouquinho: 
+Facts about me:
 
-20 anos, com 1,78m estudo todos os dias com o sonho de ingressar na aréa ainda este ano. Estou me planejando para voltar para a universidade este ano ainda.
-
-
-
-Curiosidades aleatórias sobre mim: 
-
-- ✍️ Fiz um semestre de ADS e resolvi trancar o curso devido a pandemia
-- 🏡 Me rendi ao ensino a distância e hoje faço um curso intensivo de Desenolvimento Web na Digital House
-- ☕ Sou levemente viciado em café e sommelier de Whisky escocês 
-- 🎮 Jogo League of Legends quase todos os dias
+20years, 1,78m, I study every day with the dream of joining the field this year. I'm planning to go back to university this year yet...
 
 
-<h2>Stacks que estudo diariamente</h2>
+
+Random facts about me: 
+
+- ✍️ I did a semester of Systems Analysis and Development and decided to lock the course due to Covid-19
+- 🏡 I surrendered to distance learning and today I take an intensive course in full stack Web Development at Digital House
+- ☕ I'm slightly addicted to coffee and Scotch Whiskey Sommelier
+- 🎮 I play League of Legends almost every day
+
+<h2>Stacks what I study in the day</h2>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -29,7 +28,7 @@ Curiosidades aleatórias sobre mim:
 
 <br>
 
-<h2> Redes Sociais </h2>
+<h2> connect me </h2>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Koji1lol) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pabl0reis/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/koji1lol/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pabl0reis)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Koji1lol) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](blank="https://www.linkedin.com/in/pabl0reis/") [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/koji1lol/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pabl0reis)
 
