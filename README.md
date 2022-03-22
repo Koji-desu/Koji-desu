@@ -4,7 +4,7 @@
 
 Facts about me:
 
-20years, I study every day with the dream of joining the field this year.
+20years, I study every day with the dream of joining the field this year. I've been studying web development since September/2021 but my relationship with programming goes back a long time. I'm definitely decided on what I want and I'm walking to get there calmly and responsibly.
 
 
 
