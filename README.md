@@ -4,7 +4,7 @@
 
 Facts about me:
 
-20years, 1,78m, I study every day with the dream of joining the field this year. I'm planning to go back to university this year yet...
+20years, I study every day with the dream of joining the field this year.
 
 
 
