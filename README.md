@@ -11,7 +11,7 @@ Facts about me:
 Random facts about me: 
 
 - ✍️ I'm in the first semester of Systems Analysis and Development
-- 🏡 I surrendered to distance learning and today I take an intensive course in full stack Web Development at Digital House
+- 🏡 I surrendered to distance learning and took an intensive full stack Web Development course at Digital House
 - ☕ I'm slightly addicted to coffee and Scotch Whiskey Sommelier
 - 🎮 I play League of Legends almost every day
 
