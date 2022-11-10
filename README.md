@@ -10,7 +10,7 @@ Facts about me:
 
 Random facts about me: 
 
-- ✍️ I did a semester of Systems Analysis and Development and decided to lock the course due to Covid-19
+- ✍️ I'm in the first semester of Systems Analysis and Development
 - 🏡 I surrendered to distance learning and today I take an intensive course in full stack Web Development at Digital House
 - ☕ I'm slightly addicted to coffee and Scotch Whiskey Sommelier
 - 🎮 I play League of Legends almost every day
