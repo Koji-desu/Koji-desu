@@ -2,18 +2,17 @@
 
 ### <h1> 👋 Hey There, I'm Pablo  💻</h1>
 
-Facts about me:
+about me:
 
-20years, I study every day with the dream of joining the field this year. I've been studying web development since September/2021 but my relationship with programming goes back a long time. I'm definitely decided on what I want and I'm walking to get there calmly and responsibly.
+I am a 22-year-old RPA developer. I am currently working as an intern at a company where I am involved in the development and maintenance of bots in production. I am familiar with the UiPath platform and I am currently studying Python. I am always looking for new ways to improve my skills and I am excited to see what the future holds for robotic process automation.
 
 
 
 Random facts about me: 
 
-- ✍️ I'm in the first semester of Systems Analysis and Development
-- 🏡 I surrendered to distance learning and took an intensive full stack Web Development course at Digital House
+- ✍️ I'm in the third semester of Systems Analysis and Development
 - ☕ I'm slightly addicted to coffee and Scotch Whiskey Sommelier
-- 🎮 I play League of Legends almost every day
+- 🎮 I play League of Legends when I have free time.
 
 <h2>Stacks what I study in the day</h2>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
