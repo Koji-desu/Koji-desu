@@ -14,9 +14,15 @@ Random facts about me:
 - ☕ I'm slightly addicted to coffee and Scotch Whiskey Sommelier
 - 🎮 I play League of Legends when I have free time.
 
-<h2>Stacks what I study in the day</h2>
+<h2>Stacks what I study in the day</h2> #5D5CDE
+<img src="https://img.shields.io/badge/-UIPATH-02569B?logo=poe&logoColor=#5D5CDE">
 <img src="https://img.shields.io/badge/-PYTHON-02569B?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SELENIUM-02569B?logo=selenium&logoColor=#43B02A">
+<img src="https://img.shields.io/badge/-ROBOT-FRAMEWORK-02569B?logo=robotframework&logoColor=#000000">
+<img src="https://img.shields.io/badge/-POWER-AUTOMATE-02569B?logo=powerautomate&logoColor=#0066FF">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <br>
 
