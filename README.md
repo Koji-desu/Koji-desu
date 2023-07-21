@@ -15,11 +15,11 @@ Random facts about me:
 - 🎮 I play League of Legends when I have free time.
 
 <h2>Stacks what I study in the day</h2> #5D5CDE
-<img src="https://img.shields.io/badge/-UIPATH-02569B?logo=poe&logoColor=#5D5CDE">
-<img src="https://img.shields.io/badge/-PYTHON-02569B?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-SELENIUM-02569B?logo=selenium&logoColor=#43B02A">
-<img src="https://img.shields.io/badge/-ROBOT-FRAMEWORK-02569B?logo=robotframework&logoColor=#000000">
-<img src="https://img.shields.io/badge/-POWER-AUTOMATE-02569B?logo=powerautomate&logoColor=#0066FF">
+<img src="https://img.shields.io/badge/-UIPATH-02569B?style=for-the-badge&logo=poe&logoColor=#5D5CDE">
+<img src="https://img.shields.io/badge/-PYTHON-02569B?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-SELENIUM-02569B?style=for-the-badge&logo=selenium&logoColor=#43B02A">
+<img src="https://img.shields.io/badge/-ROBOTFRAMEWORK-02569B?style=for-the-badge&logo=robotframework&logoColor=#000000">
+<img src="https://img.shields.io/badge/-POWERAUTOMATE-02569B?style=for-the-badge&logo=powerautomate&logoColor=#0066FF">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
