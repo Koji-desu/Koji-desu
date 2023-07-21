@@ -16,7 +16,7 @@ Random facts about me:
 
 <h2>Stacks what I study in the day</h2>
 <img src="https://img.shields.io/badge/-UIPATH-02569B?style=for-the-badge&logo=poe&logoColor=white">
-<img src="https://img.shields.io/badge/-PYTHON-02569B?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-PYTHON-02569B?style=for-the-badge&logo=python&logoColor=#3776AB">
 <img src="https://img.shields.io/badge/-SELENIUM-02569B?style=for-the-badge&logo=selenium&logoColor=#43B02A">
 <img src="https://img.shields.io/badge/-ROBOTFRAMEWORK-02569B?style=for-the-badge&logo=robotframework&logoColor=#000000">
 <img src="https://img.shields.io/badge/-POWERAUTOMATE-02569B?style=for-the-badge&logo=powerautomate&logoColor=#0066FF">
