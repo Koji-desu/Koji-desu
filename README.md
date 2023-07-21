@@ -19,7 +19,7 @@ Random facts about me:
 <img src="https://img.shields.io/badge/-PYTHON-02569B?style=for-the-badge&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/-SELENIUM-02569B?style=for-the-badge&logo=selenium&logoColor=#43B02A">
 <img src="https://img.shields.io/badge/-ROBOTFRAMEWORK-02569B?style=for-the-badge&logo=robotframework&logoColor=#000000">
-<img src="https://img.shields.io/badge/-POWERAUTOMATE-02569B?style=for-the-badge&logo=powerautomate&logoColor=#0066FF">
+<img src="https://img.shields.io/badge/-POWERAUTOMATE-02569B?style=for-the-badge&logo=powerautomate&logoColor=blue">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
