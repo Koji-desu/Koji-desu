@@ -15,7 +15,7 @@ Random facts about me:
 - 🎮 I play League of Legends when I have free time.
 
 <h2>Stacks what I study in the day</h2>
-<img src="https://img.shields.io/badge/-UIPATH-02569B?style=for-the-badge&logo=poe&logoColor=#5D5CDE">
+<img src="https://img.shields.io/badge/-UIPATH-02569B?style=for-the-badge&logo=poe&logoColor=white">
 <img src="https://img.shields.io/badge/-PYTHON-02569B?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-SELENIUM-02569B?style=for-the-badge&logo=selenium&logoColor=#43B02A">
 <img src="https://img.shields.io/badge/-ROBOTFRAMEWORK-02569B?style=for-the-badge&logo=robotframework&logoColor=#000000">
