@@ -4,13 +4,13 @@
 
 about me:
 
-I am a 22-year-old RPA developer. I am currently working as an intern at a company where I am involved in the development and maintenance of bots in production. I am familiar with the UiPath platform and I am currently studying Python. I am always looking for new ways to improve my skills and I am excited to see what the future holds for robotic process automation.
+I am a 24-year-old RPA developer. I am currently working as an intern at a company where I am involved in the development and maintenance of bots in production. I am familiar with the UiPath platform and I am currently studying Python. I am always looking for new ways to improve my skills and I am excited to see what the future holds for robotic process automation.
 
 
 
 Random facts about me: 
 
-- ✍️ I'm in the third semester of Systems Analysis and Development
+- ✍️ I have a degree in Systems Analysis and Development
 - ☕ I'm slightly addicted to coffee and Scotch Whiskey Sommelier
 - 🎮 I play League of Legends when I have free time.
 
